@@ -1,0 +1,19 @@
+{
+  "name": "jj99999",
+  "version": "1.0.0",
+  "description": "node hangman game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jj99999/Week11-Hangman.git"
+  },
+  "author": "jj99999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jj99999/Week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/jj99999/Week11-Hangman#readme"
+}
